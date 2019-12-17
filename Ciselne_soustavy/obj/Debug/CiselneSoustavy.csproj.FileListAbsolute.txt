@@ -1,0 +1,6 @@
+C:\Users\jakub\Desktop\Ciselne_soustavy_finale1\Ciselne_soustavy\bin\Debug\Ciselne_soustavy.exe.config
+C:\Users\jakub\Desktop\Ciselne_soustavy_finale1\Ciselne_soustavy\bin\Debug\Ciselne_soustavy.exe
+C:\Users\jakub\Desktop\Ciselne_soustavy_finale1\Ciselne_soustavy\bin\Debug\Ciselne_soustavy.pdb
+C:\Users\jakub\Desktop\Ciselne_soustavy_finale1\Ciselne_soustavy\obj\Debug\CiselneSoustavy.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\Ciselne_soustavy_finale1\Ciselne_soustavy\obj\Debug\Ciselne_soustavy.exe
+C:\Users\jakub\Desktop\Ciselne_soustavy_finale1\Ciselne_soustavy\obj\Debug\Ciselne_soustavy.pdb
